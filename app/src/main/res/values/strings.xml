@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"GIF Grid View "</string>
+    <string-array name="gif_names">
+        <item>tenor</item>
+        <item>tenor1</item>
+    </string-array>
+</resources>
